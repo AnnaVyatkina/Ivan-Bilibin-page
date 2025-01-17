@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Oswald", serif;
+    background-color: var(--bg-main);
+    background-image:url("../assets/background1.jpg");
+    background-size: cover;
+}
+
+main {
+    width: 85%;
+    margin: 0 auto;
+    background-color:#f1eacd;
+   
+}
+h1 {
+    text-align: center;
+    margin: 0;
+}
